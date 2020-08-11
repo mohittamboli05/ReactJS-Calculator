@@ -1,0 +1,15 @@
+This is a Simple Calculator built with REACT.JS library
+
+To run it on your system follow the steps:-
+
+Step 1: Create the React app: npx create-react-app calculator             //calculator is the app name
+
+Step 2: Go to the project repo: cd calculator
+
+Step 3: Copy the src and public folder from the following repo:- https://github.com/mohittamboli05/ReactJS-Calculator.git and substitute them in the calculator folder.
+
+Step 4: To Run application: npm start
+
+Step 5: Then open http://localhost:3000/ to see your app.
+
+You can now see the app running in the localhost
